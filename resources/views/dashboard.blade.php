@@ -26,7 +26,7 @@
         <!-- GAMBAR HERO -->
         <div class="flex justify-center">
             <img src="pkl.jpg" 
-                 alt="Ilustrasi PKL" class="w-72 h-auto drop-shadow-lg">
+                 alt="Ilustrasi PKL" class="w-96 h-auto drop-shadow-lg rounded-2xl border-4 border-gray-800">
         </div>
     </div>
 </section>

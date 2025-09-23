@@ -28,10 +28,6 @@
                 class="w-full bg-orange-500 hover:bg-orange-600 text-white font-semibold py-2 rounded-lg transition">
                 Login
             </button>
-
-            <div class="text-right">
-                <a href="#" class="text-sm text-blue-600 hover:underline">Lupa Password?</a>
-            </div>
         </form>
 
         <p class="mt-6 text-center text-sm text-gray-600">

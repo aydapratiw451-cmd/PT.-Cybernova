@@ -17,3 +17,15 @@ Route::get('/register', function () {
 Route::get('/pendaftaran', function () {
     return view('pendaftaran');
 });
+
+Route::get('/profil-mitra', function () {
+    return view('profil-mitra');
+});
+
+Route::get('/form-laporan', function () {
+    return view('form-laporan');
+});
+
+Route::get('/laporan', function () {
+    return view('laporan');
+});
